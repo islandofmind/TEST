@@ -903,8 +903,8 @@ Home Section style
     background: url(../images/home-bg.jpg) no-repeat top center;
     background-size: cover;
     position: relative;
-    padding-top: 300px;
-    padding-bottom: 320px;
+    padding-top: 350px;
+    padding-bottom: 450px;
     width:100%;
 }
 .home_text h1{
