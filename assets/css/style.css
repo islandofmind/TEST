@@ -317,7 +317,7 @@ ul{
 }
 
 .overlay {
-    background-color: rgba(41, 39, 34, 0.55);
+
     width: 100%;
     height:100%;
     position: absolute;
@@ -355,6 +355,12 @@ Separator
     height: 1px;
     background-color: #ddd;
     margin:20px auto;
+}
+
+
+#profile {
+  float: right;
+  margin-right: 150px;
 }
 
 
@@ -732,7 +738,7 @@ textarea::-ms-input-placeholder{
 
 /*Preloader*/
 #loading{
-    background-color: #fddc57;
+    background-color: #1c1c1c;
     height: 100%;
     width: 100%;
     position: absolute;
@@ -1410,6 +1416,7 @@ tems Section style
 .widget_ab_item_text h6{
     margin-bottom:5px;
 }
+
 .widget_item h5{
     font-weight: 700;
 }
